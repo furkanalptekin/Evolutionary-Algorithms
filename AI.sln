@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI.UI", "AI.UI\AI.UI.csproj", "{81902731-F406-4AA6-8117-DFC00CFBE591}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI.Core", "AI.Core\AI.Core.csproj", "{86DD4FC1-6D33-4E99-BF88-65DDF380D6E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI.Algorithms", "AI.Algorithms\AI.Algorithms.csproj", "{4D3B488F-25D9-40C5-8721-127E7412AD04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81902731-F406-4AA6-8117-DFC00CFBE591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81902731-F406-4AA6-8117-DFC00CFBE591}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81902731-F406-4AA6-8117-DFC00CFBE591}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81902731-F406-4AA6-8117-DFC00CFBE591}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86DD4FC1-6D33-4E99-BF88-65DDF380D6E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86DD4FC1-6D33-4E99-BF88-65DDF380D6E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86DD4FC1-6D33-4E99-BF88-65DDF380D6E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86DD4FC1-6D33-4E99-BF88-65DDF380D6E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D3B488F-25D9-40C5-8721-127E7412AD04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D3B488F-25D9-40C5-8721-127E7412AD04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D3B488F-25D9-40C5-8721-127E7412AD04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D3B488F-25D9-40C5-8721-127E7412AD04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5126224-DE18-4D6A-8914-654D3A4721A7}
+	EndGlobalSection
+EndGlobal

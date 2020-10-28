@@ -1,0 +1,22 @@
+﻿namespace AI.Core
+{
+    public enum FunctionNames : sbyte
+    {
+        ACKLEYS_FUNCTION = 1,
+        BEALES_FUNCTION,
+        GOLDSTEIN_PRICE_FUNCTION,
+        BOOTHS_FUNCTION,
+        BUKIN_FUNCTION,
+        MATYAS_FUNCTION,
+        LÉVI_FUNCTION,
+        THREE_HUMP_CAMEL,
+        EASOM_FUNCTION,
+        CROSS_IN_TRAY_FUNCTION,
+        EGGHOLDER_FUNCTION,
+        HÖLDER_TABLE_FUNCTION,
+        MCCORMICK_FUNCTION,
+        SCHAFFER_FUNCTION_N2,
+        SCHAFFER_FUNCTION_N4,
+        SIMIONESCU_FUNCTION
+    }
+}
